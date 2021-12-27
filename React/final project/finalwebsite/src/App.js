@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <Button 
-        size="large"
+        
         varient="containted" 
         color="secondary"> 
           Hello World
